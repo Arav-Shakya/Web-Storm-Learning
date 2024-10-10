@@ -20,7 +20,7 @@ export default function Home() {
             </code>
 
           </li>
-          <li>yo sup</li>
+          <li>yo sup testing</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
